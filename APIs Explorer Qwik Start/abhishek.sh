@@ -18,10 +18,8 @@ clear
 
 # Display Header
 echo "${BLUE}${BOLD}============================================${RESET}"
-echo "${BLUE}${BOLD}   DR. ABHISHEK'S CLOUD STORAGE LAB        ${RESET}"
+echo "${BLUE}${BOLD}   Google Cloud STORAGE LAB        ${RESET}"
 echo "${BLUE}${BOLD}============================================${RESET}"
-echo "${CYAN}YouTube Channel: https://www.youtube.com/@drabhishek.5460${RESET}"
-echo "${MAGENTA}Video Tutorials: https://www.youtube.com/@drabhishek.5460/videos${RESET}"
 echo
 
 # Get Project ID
@@ -95,9 +93,3 @@ echo "${GREEN}${BOLD}   CLOUD STORAGE LAB COMPLETED SUCCESSFULLY!${RESET}"
 echo "${GREEN}${BOLD}============================================${RESET}"
 echo
 echo "${WHITE}${BOLD}Congratulations on completing the lab!${RESET}"
-echo
-echo "${CYAN}${BOLD}For more cloud tutorials:${RESET}"
-echo "${MAGENTA}Subscribe to Dr. Abhishek's YouTube Channel:${RESET}"
-echo "${BLUE}${UNDERLINE}https://www.youtube.com/@drabhishek.5460${RESET}"
-echo "${MAGENTA}Video Tutorials:${RESET}"
-echo "${BLUE}${UNDERLINE}https://www.youtube.com/@drabhishek.5460/videos${RESET}"
