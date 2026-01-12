@@ -19,7 +19,7 @@ clear
 
 echo "${BLUE_TEXT}${BOLD_TEXT}=======================================${RESET_FORMAT}"
 echo "${BLUE_TEXT}${BOLD_TEXT}         INITIATING EXECUTION...        ${RESET_FORMAT}"
-echo "${BLUE_TEXT}${BOLD_TEXT}  Welcome to Dr. Abhishek's Cloud Lab  ${RESET_FORMAT}"
+echo "${BLUE_TEXT}${BOLD_TEXT}  Welcome to Google Cloud Lab  ${RESET_FORMAT}"
 echo "${BLUE_TEXT}${BOLD_TEXT}=======================================${RESET_FORMAT}"
 echo
 echo "${CYAN_TEXT}Please like, share and subscribe to:${RESET_FORMAT}"
@@ -221,7 +221,4 @@ echo "${GREEN_TEXT}${BOLD_TEXT}=================================================
 echo
 echo "${CYAN_TEXT}${BOLD_TEXT}Thank you for completing this lab!${RESET_FORMAT}"
 echo
-echo "${RED_TEXT}${BOLD_TEXT}For more cloud tutorials, subscribe to:${RESET_FORMAT}"
-echo "${BLUE_TEXT}${BOLD_TEXT}Dr. Abhishek's YouTube Channel${RESET_FORMAT}"
-echo "${MAGENTA_TEXT}https://www.youtube.com/@drabhishek.5460/videos${RESET_FORMAT}"
 echo
